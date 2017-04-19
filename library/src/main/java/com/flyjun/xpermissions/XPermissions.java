@@ -166,7 +166,7 @@ public class XPermissions {
 					    permissionsBuilder.setRequestCode(requestCode);
 					    permissionsBuilder.setPermissions(shouldShowList.toArray(new String[shouldShowList.size()]));
 					    permissionsBuilder.setShouldShow(false);
-						PermissionsHelper.requestPermissions(permissionsBuilder );
+						PermissionsHelper.requestPermissions(activity,permissionsBuilder );
 				}
 				
 				@Override
