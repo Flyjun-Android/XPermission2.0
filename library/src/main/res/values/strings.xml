@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">library</string>
+
+    <string name="calendar">查看日历</string>
+    <string name="camera">使用拍照和查看相册</string>
+    <string name="contacts">查看联系人</string>
+    <string name="location">定位</string>
+    <string name="microphone">使用麦克风</string>
+    <string name="phone">读取联系人</string>
+    <string name="sensors">使用传感器</string>
+    <string name="sms">使用短信功能</string>
+    <string name="storage">存储</string>
+
+</resources>
